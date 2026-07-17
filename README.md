@@ -115,19 +115,19 @@ SIG (Sitema de inromação gerencial)
 
 ## ✅ 12. Diagrama de Casos de Uso *(Concluido)*
 
-> Esta seção será preenchida após a aula correspondente.
+<img src="diagramas/Diagrama-de-classes.png" >
 
 ---
 
 ## ✅ 13. Diagrama de Classes *(Concluido)*
 
-> Esta seção será preenchida após a aula correspondente.
+<img src="diagramas/diagrama-caso-de-uso.png" >
 
 ---
 
 ## ✅ 14. Diagrama de Sequência *(Concluido)*
 
-> Esta seção será preenchida após a aula correspondente.
+<img src="diagramas/diagrama-de-sequencia.png" >
 
 ---
 
